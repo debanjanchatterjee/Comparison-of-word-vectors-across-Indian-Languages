@@ -1,0 +1,15 @@
+Cosine similarity between bengali and gujarati - 0.38
+Cosine similarity between bengali and hindi - 0.76
+Cosine similarity between bengali and kannada - 0.55
+Cosine similarity between bengali and malayalam - 0.55
+Cosine similarity between bengali and telugu - 0.61
+Cosine similarity between gujarati and hindi - 0.56
+Cosine similarity between gujarati and kannada - 0.17
+Cosine similarity between gujarati and malayalam - 0.45
+Cosine similarity between gujarati and telugu - 0.0
+Cosine similarity between hindi and kannada - 0.82
+Cosine similarity between hindi and malayalam - 0.24
+Cosine similarity between hindi and telugu - 0.79
+Cosine similarity between kannada and malayalam - 0.0
+Cosine similarity between kannada and telugu - 0.85
+Cosine similarity between malayalam and telugu - 0.0
