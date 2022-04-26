@@ -20,7 +20,8 @@ To run WALS features:
   wals_feature_morphology.ipynb,
   wals_feature_nominal.ipynb,
   wals_feature_word_order.ipynb,
-  wals_feature_verbal_categories.ipynb
+  wals_feature_verbal_categories.ipynb,
+  wals_feature_simple_clause.ipynb
 
 
 
