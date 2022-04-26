@@ -14,12 +14,12 @@ To run word embeddings:
 To run WALS features:
 1) Download and place Indian_language.csv and language.csv
 2) Run the below python files to run for each feature category
-  wals_all_features_intersection.py
-  wals_feature_pop_lan_repl0.ipynb
-  wals_feature_phonology.ipynb
-  wals_feature_morphology.ipynb
-  wals_feature_nominal.ipynb
-  wals_feature_word_order.ipynb
+  wals_all_features_intersection.py,
+  wals_feature_pop_lan_repl0.ipynb,
+  wals_feature_phonology.ipynb,
+  wals_feature_morphology.ipynb,
+  wals_feature_nominal.ipynb,
+  wals_feature_word_order.ipynb,
   wals_feature_verbal_categories.ipynb
 
 
